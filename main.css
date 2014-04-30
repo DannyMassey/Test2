@@ -17,7 +17,7 @@ aside {
 aside:before,
 aside:after {
   content: '';
-  display: table;
+  display: block;
 }
 aside:after {
   clear: both;
